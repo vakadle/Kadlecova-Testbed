@@ -159,7 +159,15 @@
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Blueprints/BP_PongGameMode.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/PM_MaxBounce.uasset",
 				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Input/IMC_Pong.uasset",
-				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Input/Actions/A_LeftDown.uasset"
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Input/Actions/A_LeftDown.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Blueprints/BP_PongBall.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/__ExternalActors__/Pong/Scenes/Pong/E/MK/7L5FKIZ02X37N8KRTC5BOR.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/__ExternalActors__/Pong/Scenes/Pong/C/AC/KG8TUR6LVB3XT39CLV8VWJ.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/__ExternalActors__/Pong/Scenes/Pong/D/C3/6T4EAN1JAK6RTQV65F6RCQ.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/__ExternalActors__/Pong/Scenes/Pong/7/SK/FKMKIPBCNRQE19EK9YLL26.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Blueprints/BP_BallSpawner.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Blueprints/BP_PongInstance.uasset",
+				"C:/Users/vakadle/Documents/GitHub/Kadlecova-Testbed/KadlecovaTestbed/Content/Pong/Blueprints/BP_ScoreArea.uasset"
 			]
 		}
 	]
